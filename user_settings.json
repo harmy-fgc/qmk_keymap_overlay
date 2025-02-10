@@ -1,8 +1,8 @@
 {
-    "maker": "cheapino",
-    "keyboard": "",
-    "revision": "",
-    "layout": "LAYOUT_split_3x5_3",
+    "maker": "harmy",
+    "keyboard": "0_ameins",
+    "revision": "4x6",
+    "layout": "LAYOUT",
     "keymap": "default",
     "square_size": 70,
     "font_size": 10,
